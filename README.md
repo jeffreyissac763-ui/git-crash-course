@@ -6,6 +6,11 @@
 
 This line was added directly on GitHub.
 
+## Team Development Workflow
+
+This project follows a feature branch and GitHub pull request workflow.
+
 ## GitHub Profile Workflow
 
 This section demonstrates a GitHub feature branch workflow.
+
