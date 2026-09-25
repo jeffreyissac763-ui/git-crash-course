@@ -16,4 +16,4 @@ jobs:
       - name: Run CI test
         run: |
           echo "GitHub Actions CI pipeline is running"
-          echo "GitHub Actions CI/CD test passed"
+          exit 1
