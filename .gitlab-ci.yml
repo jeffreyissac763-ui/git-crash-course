@@ -1,0 +1,8 @@
+﻿stages:
+  - test
+
+test_project:
+  stage: test
+  script:
+    - echo "CI pipeline is running"
+    - echo "GitLab CI/CD test passed"
